@@ -1,11 +1,8 @@
-# .FedMart
+# FedMart - A federated marketplace toolkit for integration of microservice based shops.
 
 Welcome to our Federated Marketplace!
 
 ![FedMart Cover](https://github.com/ADSP-Project/.FedMart/assets/92399344/c47395c3-cfbb-425a-8005-6148c67e4401)
-
-
-
 
 ![Problems](https://github.com/ADSP-Project/.FedMart/assets/92399344/0ced38bb-bee3-4429-a57d-09d34ebf4c27)
 
